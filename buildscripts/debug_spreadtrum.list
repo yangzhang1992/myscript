@@ -1,0 +1,17 @@
+out/target/product/sp7731e_1h20/obj/APPS/csvt_intermediates/package.apk
+out/target/product/sp7731e_1h20/obj/APPS/ModemNotifier_intermediates/package.apk
+out/target/product/sp7731e_1h20/obj/APPS/SprdCommLogService_intermediates/package.apk
+out/target/product/sp7731e_1h20/obj/ETC/buffdump.conf_intermediates/buffdump.conf
+out/target/product/sp7731e_1h20/obj/ETC/phonedump.conf_intermediates/phonedump.conf
+out/target/product/sp7731e_1h20/obj/EXECUTABLES/apdumper_intermediates/apdumper
+out/target/product/sp7731e_1h20/obj/EXECUTABLES/calibration_init_intermediates/calibration_init
+out/target/product/sp7731e_1h20/fdl1-sign.bin
+out/target/product/sp7731e_1h20/fdl2-sign.bin
+out/target/product/sp7731e_1h20/u-boot-spl-16k-sign.bin
+out/target/product/sp7731e_1h20/u-boot-sign.bin
+out/target/product/sp7731e_1h20/boot.img
+out/target/product/sp7731e_1h20/system.img
+out/target/product/sp7731e_1h20/userdata.img
+out/target/product/sp7731e_1h20/recovery.img
+out/target/product/sp7731e_1h20/cache.img
+out/target/product/sp7731e_1h20/vendor.img

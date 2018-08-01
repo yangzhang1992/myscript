@@ -1,0 +1,10 @@
+amss/common/about.html
+amss/adsp_proc/build/dynamic_signed/8953/adspso.bin
+amss/common/build/gpt_backup0.bin
+amss/common/build/gpt_main0.bin
+amss/common/build/patch0.xml
+amss/common/build/rawprogram0.xml
+amss/out/bin/*.*
+out/target/product/YT/*.*
+amss/common/build/gpt_main0.bin
+amss/boot_images/core/storage/tools/ptool/checksparse.py
