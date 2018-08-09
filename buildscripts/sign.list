@@ -1,8 +1,3 @@
-amss/wcnss_proc/build/ms/bin/8953/reloc/wcnss.mbn
-amss/boot_images/core/bsp/bootloaders/sbl1/build/JAASANAZ/sign/default/sbl1/sbl1.mbn
-amss/boot_images/core/bsp/bootloaders/sbl1/build/JAADANAZ/sign/default/sbl1/prog_emmc_firehose_8953_lite.mbn
-amss/boot_images/core/bsp/bootloaders/sbl1/build/JAADANAZ/sign/default/sbl1/prog_emmc_firehose_8953_ddr.mbn
-amss/rpm_proc/build/ms/bin/8953/rpm.mbn
 amss/modem_proc/build/ms/bin/8953.gen.prod/qdsp6sw.mbn
 amss/modem_proc/build/ms/bin/8953.gen.prod/mba.mbn
 amss/trustzone_images/build/ms/bin/SANAANAA/tz.mbn
